@@ -9,5 +9,6 @@ public class hii
         String s1=Integer.toString(n);
         String s2=Integer.toString(s);
         System.out.println(s2.endsWith(s1)?"Automorphic Number":"Not an Automorphic Number");
+        
     }
 }
