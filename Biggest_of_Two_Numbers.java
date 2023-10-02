@@ -1,6 +1,5 @@
 import java.util.*;
-public class hii
-
+public class number
 {
     public static void main(String args[])
     {
@@ -16,5 +15,5 @@ public class hii
         {
             System.out.println(n2);
         }
-}
+    }
 }
