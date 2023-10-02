@@ -11,5 +11,6 @@ public class cross
         System.out.printf("Product:%d%n",x*y);
         System.out.printf("Quotient:%d%n",x/y);
         System.out.printf("Remainder:%d%n",x%y);
-}
+        
+    }
 }
